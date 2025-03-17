@@ -13,7 +13,6 @@
 
 --- Let's Connect!---
 - GitHub: You're already here!
-- [Your Email or LinkedIn (if you want to share it)]
 - My LinkedIn and Email are on my profile page 
 
 -----Always open to build something cool with others!-----
