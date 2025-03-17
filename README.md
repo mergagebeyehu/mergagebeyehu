@@ -1,19 +1,19 @@
 ---Hi, I'm Merga!---
-- I'm a current student at Anoka-Ramsey Community College interested in the world of programming,problem-solving, and video games! -
+- I'm a current student at Anoka-Ramsey Community College interested in the world of programming,problem-solving, and video games! 
 
 --- What I Do ---
-- Currently a College Student -
-- Learning & experimenting with React, Jupyters Notebook, NodeJS -
-- Leader and volunteer in school clubs -
+- Currently a College Student 
+- Learning & experimenting with React, Jupyters Notebook, NodeJS 
+- Leader and volunteer in school clubs 
 
   
 --- What I'm Up To Right now ---
--  I'm diving into learning front-end developement. Always open to new ideas, collabs, and meeting new people. -
--  Currently working on a solar panel prediction model for one of my school clubs STEM for All -
+-  I'm diving into learning front-end developement. Always open to new ideas, collabs, and meeting new people. 
+-  Currently working on a solar panel prediction model for one of my school clubs STEM for All 
 
 --- Let's Connect!---
-- GitHub: You're already here!-
-- [Your Email or LinkedIn (if you want to share it)]-
-- My LinkedIn and Email are on my profile page -
+- GitHub: You're already here!
+- [Your Email or LinkedIn (if you want to share it)]
+- My LinkedIn and Email are on my profile page 
 
------Let’s build something cool together!-----
+-----Always open to build something cool with others!-----
