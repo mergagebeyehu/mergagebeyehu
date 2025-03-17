@@ -3,7 +3,7 @@
 
 --- What I Do ---
 - Currently a College Student 
-- Learning & experimenting with React, Jupyters Notebook, NodeJS 
+- Learning & experimenting with React, Jupyter Notebook, NodeJS 
 - Leader and volunteer in school clubs 
 
   
